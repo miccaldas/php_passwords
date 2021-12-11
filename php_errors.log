@@ -1,0 +1,142 @@
+[21-Nov-2021 18:14:55 Europe/Lisbon] PHP Warning:  include(/srv/http/partials/footer.php): Failed to open stream: No such file or directory in /var/www/constantconstipation.club/html/index.php on line 30
+[21-Nov-2021 18:14:55 Europe/Lisbon] PHP Warning:  include(): Failed opening '/srv/http/partials/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/constantconstipation.club/html/index.php on line 30
+[21-Nov-2021 18:15:56 Europe/Lisbon] PHP Warning:  include(/srv/http/partials/footer.php): Failed to open stream: No such file or directory in /var/www/constantconstipation.club/html/index.php on line 30
+[21-Nov-2021 18:15:56 Europe/Lisbon] PHP Warning:  include(): Failed opening '/srv/http/partials/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/constantconstipation.club/html/index.php on line 30
+[21-Nov-2021 18:15:58 Europe/Lisbon] PHP Warning:  include(/srv/http/partials/footer.php): Failed to open stream: No such file or directory in /var/www/constantconstipation.club/html/index.php on line 30
+[21-Nov-2021 18:15:58 Europe/Lisbon] PHP Warning:  include(): Failed opening '/srv/http/partials/footer.php' for inclusion (include_path='.:/usr/share/php') in /var/www/constantconstipation.club/html/index.php on line 30
+[21-Nov-2021 20:39:46 Europe/Lisbon] PHP Parse error:  syntax error, unexpected identifier "results", expecting "," or ";" in /var/www/constantconstipation.club/html/generator.php on line 27
+[21-Nov-2021 20:40:31 Europe/Lisbon] PHP Parse error:  syntax error, unexpected token "/" in /var/www/constantconstipation.club/html/generator.php on line 27
+[21-Nov-2021 20:55:33 Europe/Lisbon] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /var/www/constantconstipation.club/html/generator.php on line 28
+[21-Nov-2021 20:57:50 Europe/Lisbon] PHP Parse error:  Unclosed '{' on line 3 in /var/www/constantconstipation.club/html/generator.php on line 31
+[21-Nov-2021 20:59:36 Europe/Lisbon] PHP Parse error:  Unclosed '{' on line 3 in /var/www/constantconstipation.club/html/generator.php on line 30
+[21-Nov-2021 20:59:53 Europe/Lisbon] PHP Parse error:  Unclosed '{' on line 3 in /var/www/constantconstipation.club/html/generator.php on line 31
+[21-Nov-2021 20:59:56 Europe/Lisbon] PHP Parse error:  Unclosed '{' on line 3 in /var/www/constantconstipation.club/html/generator.php on line 31
+[22-Nov-2021 03:19:18 Europe/Lisbon] PHP Warning:  Unknown: Failed to open stream: No such file or directory in Unknown on line 0
+[22-Nov-2021 03:19:18 Europe/Lisbon] PHP Fatal error:  Failed opening required '/var/www/constantconstipation.club/html/about.php' (include_path='.:/usr/share/php') in Unknown on line 0
+[10-Dec-2021 06:08:31 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/generator.php on line 32
+[10-Dec-2021 06:09:34 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/generator.php on line 33
+[10-Dec-2021 06:21:06 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/generator.php on line 36
+[10-Dec-2021 06:21:06 Europe/Lisbon] PHP Warning:  Undefined variable $mail in /var/www/constantconstipation.club/html/generator.php on line 39
+[10-Dec-2021 06:22:01 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/generator.php on line 36
+[10-Dec-2021 06:25:08 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/generator.php on line 36
+[10-Dec-2021 06:25:26 Europe/Lisbon] PHP Parse error:  Unclosed '{' on line 3 in /var/www/constantconstipation.club/html/generator.php on line 49
+[10-Dec-2021 06:58:57 Europe/Lisbon] PHP Parse error:  syntax error, unexpected token "echo" in /var/www/constantconstipation.club/html/mail_generator.php on line 8
+[10-Dec-2021 07:20:50 Europe/Lisbon] PHP Parse error:  syntax error, unexpected variable "$_POST", expecting "," or ";" in /var/www/constantconstipation.club/html/mail_generator.php on line 4
+[10-Dec-2021 07:21:50 Europe/Lisbon] PHP Parse error:  syntax error, unexpected variable "$to", expecting "," or ";" in /var/www/constantconstipation.club/html/mail_generator.php on line 5
+[10-Dec-2021 07:36:36 Europe/Lisbon] PHP Parse error:  Unmatched '}' in /var/www/constantconstipation.club/html/mail_generator.php on line 14
+[10-Dec-2021 07:36:46 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 3
+[10-Dec-2021 07:36:46 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 5
+[10-Dec-2021 07:36:46 Europe/Lisbon] PHP Warning:  Undefined variable $mail in /var/www/constantconstipation.club/html/mail_generator.php on line 8
+[10-Dec-2021 07:36:46 Europe/Lisbon] PHP Warning:  Undefined variable $mail in /var/www/constantconstipation.club/html/mail_generator.php on line 13
+[10-Dec-2021 07:48:03 Europe/Lisbon] PHP Parse error:  syntax error, unexpected variable "$to" in /var/www/constantconstipation.club/html/mail_generator.php on line 5
+[10-Dec-2021 08:06:08 Europe/Lisbon] PHP Parse error:  syntax error, unexpected variable "$emailbool", expecting "(" in /var/www/constantconstipation.club/html/mail_generator.php on line 5
+[10-Dec-2021 08:59:40 Europe/Lisbon] PHP Warning:  Undefined variable $message in /var/www/constantconstipation.club/html/mail_generator.php on line 7
+[10-Dec-2021 09:03:32 Europe/Lisbon] PHP Warning:  Undefined variable $message in /var/www/constantconstipation.club/html/mail_generator.php on line 15
+[10-Dec-2021 09:37:32 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in php shell code on line 1
+[10-Dec-2021 09:54:55 UTC] PHP Parse error:  syntax error, unexpected token "=" in php shell code on line 1
+[10-Dec-2021 10:14:04 Europe/Lisbon] PHP Warning:  Undefined variable $message in /var/www/constantconstipation.club/html/mail_generator.php on line 17
+[10-Dec-2021 10:14:04 Europe/Lisbon] PHP Warning:  Undefined variable $message in /var/www/constantconstipation.club/html/mail_generator.php on line 20
+[10-Dec-2021 10:32:37 Europe/Lisbon] PHP Warning:  Undefined variable $emailbool in /var/www/constantconstipation.club/html/mail_generator.php on line 9
+[10-Dec-2021 10:34:00 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 8
+[10-Dec-2021 10:38:12 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 8
+[10-Dec-2021 10:38:12 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 9
+[10-Dec-2021 10:38:47 Europe/Lisbon] PHP Parse error:  Unmatched ')' in /var/www/constantconstipation.club/html/mail_generator.php on line 9
+[10-Dec-2021 10:39:21 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 8
+[10-Dec-2021 10:41:12 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 8
+[10-Dec-2021 10:41:14 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 8
+[10-Dec-2021 10:41:35 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 8
+[10-Dec-2021 10:46:10 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 8
+[10-Dec-2021 10:48:30 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 8
+[10-Dec-2021 10:49:13 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 8
+[10-Dec-2021 10:51:57 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 8
+[10-Dec-2021 10:51:59 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 8
+[10-Dec-2021 10:56:18 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 8
+[10-Dec-2021 11:12:42 Europe/Lisbon] PHP Warning:  Undefined variable $msg in /var/www/constantconstipation.club/html/mail_generator.php on line 6
+[10-Dec-2021 11:12:42 Europe/Lisbon] PHP Warning:  Undefined variable $pwd in /var/www/constantconstipation.club/html/mail_generator.php on line 7
+[10-Dec-2021 11:26:42 Europe/Lisbon] PHP Warning:  Undefined variable $msg in /var/www/constantconstipation.club/html/mail_generator.php on line 6
+[10-Dec-2021 11:26:42 Europe/Lisbon] PHP Warning:  Undefined variable $pwd in /var/www/constantconstipation.club/html/mail_generator.php on line 7
+[10-Dec-2021 11:26:42 Europe/Lisbon] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /var/www/constantconstipation.club/html/vendor/lablnet/http-client/src/Uri.php on line 172
+[10-Dec-2021 11:29:09 Europe/Lisbon] PHP Warning:  Undefined variable $msg in /var/www/constantconstipation.club/html/mail_generator.php on line 8
+[10-Dec-2021 11:29:09 Europe/Lisbon] PHP Warning:  Undefined variable $pwd in /var/www/constantconstipation.club/html/mail_generator.php on line 9
+[10-Dec-2021 11:29:09 Europe/Lisbon] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /var/www/constantconstipation.club/html/vendor/lablnet/http-client/src/Uri.php on line 172
+[10-Dec-2021 11:29:15 Europe/Lisbon] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /var/www/constantconstipation.club/html/vendor/lablnet/http-client/src/Uri.php on line 172
+[10-Dec-2021 11:29:25 Europe/Lisbon] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /var/www/constantconstipation.club/html/vendor/lablnet/http-client/src/Uri.php on line 172
+[10-Dec-2021 11:37:00 Europe/Lisbon] PHP Warning:  require_once(/var/www/constantconstipation.club/html/vendor/autoload.php): Failed to open stream: No such file or directory in /var/www/constantconstipation.club/html/mail_generator.php on line 4
+[10-Dec-2021 11:37:00 Europe/Lisbon] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/constantconstipation.club/html/vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/constantconstipation.club/html/mail_generator.php:4
+Stack trace:
+#0 /var/www/constantconstipation.club/html/index.php(37): include()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/mail_generator.php on line 4
+[10-Dec-2021 11:37:27 Europe/Lisbon] PHP Fatal error:  Uncaught Error: Class "Input" not found in /var/www/constantconstipation.club/html/mail_generator.php:10
+Stack trace:
+#0 /var/www/constantconstipation.club/html/index.php(37): include()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/mail_generator.php on line 10
+[10-Dec-2021 11:48:04 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 5
+[10-Dec-2021 11:48:35 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 5
+[10-Dec-2021 11:48:37 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 5
+[10-Dec-2021 11:48:59 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 5
+[10-Dec-2021 11:50:01 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 5
+[10-Dec-2021 12:20:18 Europe/Lisbon] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /var/www/constantconstipation.club/html/mail_generator.php on line 17
+[10-Dec-2021 12:25:09 Europe/Lisbon] PHP Parse error:  syntax error, unexpected token "function", expecting "," or ";" in /var/www/constantconstipation.club/html/mail_generator.php on line 5
+[10-Dec-2021 12:29:42 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail_generator.php on line 4
+[10-Dec-2021 12:33:07 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 27
+[10-Dec-2021 12:33:55 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 27
+[10-Dec-2021 12:35:20 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 27
+[10-Dec-2021 12:36:55 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 27
+[10-Dec-2021 12:39:13 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 27
+[10-Dec-2021 12:39:14 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 27
+[10-Dec-2021 12:39:34 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 27
+[10-Dec-2021 12:40:45 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 27
+[10-Dec-2021 12:40:47 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 27
+[10-Dec-2021 12:40:57 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 27
+[10-Dec-2021 12:43:56 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 27
+[10-Dec-2021 12:44:13 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 27
+[10-Dec-2021 12:46:44 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 27
+[10-Dec-2021 12:46:46 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 27
+[10-Dec-2021 12:47:31 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 27
+[10-Dec-2021 12:50:44 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/apagar.php on line 1
+[10-Dec-2021 14:27:05 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 27
+[10-Dec-2021 14:45:33 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 27
+[10-Dec-2021 16:56:06 Europe/Lisbon] PHP Parse error:  syntax error, unexpected token ":", expecting "," or ";" in /var/www/constantconstipation.club/html/header.php on line 20
+[10-Dec-2021 19:43:18 UTC] PHP Warning:  Uncaught Error: Undefined constant "generator" in php shell code:1
+Stack trace:
+#0 {main}
+  thrown in php shell code on line 1
+[10-Dec-2021 19:45:46 UTC] PHP Parse error:  syntax error, unexpected identifier "generator" in php shell code on line 2
+[10-Dec-2021 19:50:49 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 27
+[10-Dec-2021 21:14:10 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 27
+[10-Dec-2021 22:39:49 Europe/Lisbon] PHP Warning:  Undefined array key "pwd" in /var/www/constantconstipation.club/html/mail.php on line 25
+[10-Dec-2021 22:39:49 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 26
+[10-Dec-2021 22:44:21 Europe/Lisbon] PHP Parse error:  syntax error, unexpected variable "$pwd_file", expecting "," or ";" in /var/www/constantconstipation.club/html/generator.php on line 34
+[10-Dec-2021 23:02:39 Europe/Lisbon] PHP Warning:  Undefined array key "pwd" in /var/www/constantconstipation.club/html/mail.php on line 25
+[10-Dec-2021 23:02:39 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 26
+[10-Dec-2021 23:09:47 Europe/Lisbon] PHP Warning:  Undefined array key "pwd" in /var/www/constantconstipation.club/html/mail.php on line 25
+[10-Dec-2021 23:09:47 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/mail.php on line 26
+[10-Dec-2021 23:28:41 Europe/Lisbon] PHP Parse error:  Unmatched '}' in /var/www/constantconstipation.club/html/generator.php on line 54
+[10-Dec-2021 23:29:42 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/generator.php on line 39
+[10-Dec-2021 23:29:42 Europe/Lisbon] PHP Warning:  Undefined array key "pwd" in /var/www/constantconstipation.club/html/generator.php on line 41
+[10-Dec-2021 23:31:54 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/generator.php on line 39
+[10-Dec-2021 23:31:54 Europe/Lisbon] PHP Warning:  Undefined array key "pwd" in /var/www/constantconstipation.club/html/generator.php on line 41
+[10-Dec-2021 23:43:49 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/generator.php on line 39
+[10-Dec-2021 23:43:49 Europe/Lisbon] PHP Warning:  Undefined array key "pwd" in /var/www/constantconstipation.club/html/generator.php on line 41
+[10-Dec-2021 23:44:12 Europe/Lisbon] PHP Warning:  Unknown: Failed to open stream: No such file or directory in Unknown on line 0
+[10-Dec-2021 23:44:12 Europe/Lisbon] PHP Fatal error:  Failed opening required '/var/www/constantconstipation.club/html/mail.php' (include_path='.:/usr/share/php') in Unknown on line 0
+[10-Dec-2021 23:50:34 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/generator.php on line 36
+[10-Dec-2021 23:50:34 Europe/Lisbon] PHP Warning:  Undefined array key "pwd" in /var/www/constantconstipation.club/html/generator.php on line 38
+[11-Dec-2021 02:02:44 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/generator.php on line 36
+[11-Dec-2021 02:02:44 Europe/Lisbon] PHP Warning:  Undefined array key "pwd" in /var/www/constantconstipation.club/html/generator.php on line 38
+[11-Dec-2021 02:06:40 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/generator.php on line 36
+[11-Dec-2021 02:06:40 Europe/Lisbon] PHP Warning:  Undefined array key "pwd" in /var/www/constantconstipation.club/html/generator.php on line 38
+[11-Dec-2021 02:07:30 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/generator.php on line 36
+[11-Dec-2021 02:07:30 Europe/Lisbon] PHP Warning:  Undefined array key "pwd" in /var/www/constantconstipation.club/html/generator.php on line 38
+[11-Dec-2021 02:07:47 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/generator.php on line 36
+[11-Dec-2021 02:07:47 Europe/Lisbon] PHP Warning:  Undefined array key "pwd" in /var/www/constantconstipation.club/html/generator.php on line 38
+[11-Dec-2021 02:08:08 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/generator.php on line 36
+[11-Dec-2021 02:08:08 Europe/Lisbon] PHP Warning:  Undefined array key "pwd" in /var/www/constantconstipation.club/html/generator.php on line 38
+[11-Dec-2021 02:08:27 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/generator.php on line 36
+[11-Dec-2021 02:08:27 Europe/Lisbon] PHP Warning:  Undefined array key "pwd" in /var/www/constantconstipation.club/html/generator.php on line 38
+[11-Dec-2021 02:09:17 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/generator.php on line 36
+[11-Dec-2021 02:09:17 Europe/Lisbon] PHP Warning:  Undefined array key "pwd" in /var/www/constantconstipation.club/html/generator.php on line 38
+[11-Dec-2021 02:27:56 Europe/Lisbon] PHP Warning:  Undefined array key "email" in /var/www/constantconstipation.club/html/generator.php on line 36
+[11-Dec-2021 02:27:56 Europe/Lisbon] PHP Warning:  Undefined array key "pwd" in /var/www/constantconstipation.club/html/generator.php on line 38
