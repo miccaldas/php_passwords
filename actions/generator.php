@@ -1,4 +1,4 @@
-<?php require 'corrected_list.php';
+<?php require 'support_files/corrected_list.php';
 
 if (isset($_GET['length'])) {
 

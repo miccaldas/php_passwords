@@ -1,0 +1,305 @@
+[11-Dec-2021 10:49:32 Europe/Lisbon] PHP Fatal error:  Cannot use try without catch or finally in /var/www/constantconstipation.club/html/actions/all.php on line 8
+[11-Dec-2021 10:56:20 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 10:56:20 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 10:56:20 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 10:56:20 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 10:56:20 Europe/Lisbon] PHP Warning:  Undefined variable $sql in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 10:56:20 Europe/Lisbon] PHP Warning:  Undefined variable $w in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 10:56:20 Europe/Lisbon] PHP Fatal error:  Uncaught Error: Call to undefined function getMessage() in /var/www/constantconstipation.club/html/actions/all.php:19
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(22): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 10:57:54 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 10:57:54 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 10:57:54 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 10:57:54 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 10:57:54 Europe/Lisbon] PHP Warning:  Undefined variable $sql in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 10:57:54 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:19
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(22): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 10:59:24 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 10:59:24 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 10:59:24 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 10:59:24 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 10:59:24 Europe/Lisbon] PHP Warning:  Undefined variable $sql in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 10:59:24 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:19
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(22): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 10:59:35 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 10:59:35 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 10:59:35 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 10:59:35 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 10:59:35 Europe/Lisbon] PHP Warning:  Undefined variable $sql in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 10:59:35 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:19
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(22): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:02:37 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:02:37 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:02:37 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:02:37 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:02:37 Europe/Lisbon] PHP Warning:  Undefined variable $sql in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:02:37 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:19
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(22): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:03:19 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:03:19 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:03:19 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:03:19 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:03:19 Europe/Lisbon] PHP Warning:  Undefined variable $sql in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:03:19 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:19
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(22): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:05:45 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:05:45 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:05:45 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:05:45 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:05:45 Europe/Lisbon] PHP Warning:  Undefined variable $sql in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:05:45 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:19
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(22): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:06:40 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:06:40 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:06:40 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:06:40 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:06:40 Europe/Lisbon] PHP Warning:  Undefined variable $sql in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:06:40 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:19
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(22): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:07:51 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:07:51 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:07:51 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:07:51 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:07:51 Europe/Lisbon] PHP Warning:  Undefined variable $sql in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:07:51 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:19
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(22): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:13:00 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:13:00 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:13:00 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:13:00 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:13:00 Europe/Lisbon] PHP Warning:  Undefined variable $sql in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:13:00 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:19
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(22): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:13:51 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:13:51 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:13:51 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:13:51 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:13:51 Europe/Lisbon] PHP Warning:  Undefined variable $sql in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:13:51 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:19
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(22): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:30:31 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:30:31 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:30:31 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:30:31 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:30:31 Europe/Lisbon] PHP Warning:  Undefined variable $sql in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:30:31 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:19
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(22): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:37:01 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:37:01 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:37:01 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:37:01 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:37:01 Europe/Lisbon] PHP Warning:  Undefined variable $sql in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:37:01 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:19
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(22): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:37:11 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:37:11 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:37:11 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:37:11 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:37:11 Europe/Lisbon] PHP Warning:  Undefined variable $sql in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:37:11 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:19
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(22): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:37:13 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:37:13 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:37:13 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:37:13 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:37:13 Europe/Lisbon] PHP Warning:  Undefined variable $sql in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:37:13 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:19
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(22): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:39:01 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:39:01 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:39:01 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:39:01 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:39:01 Europe/Lisbon] PHP Warning:  Undefined variable $sql in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:39:01 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:19
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(22): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:54:45 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:54:45 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:54:45 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:54:45 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 11:54:45 Europe/Lisbon] PHP Warning:  Undefined variable $sql in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 11:54:45 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:19
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(22): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 12:06:58 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:06:58 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:06:58 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:06:58 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:06:58 Europe/Lisbon] PHP Warning:  Undefined variable $sql in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 12:06:58 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:19
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(22): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 12:11:30 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:11:30 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:11:30 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:11:30 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:11:30 Europe/Lisbon] PHP Warning:  Undefined variable $sql in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 12:11:30 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:19
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(22): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 19
+[11-Dec-2021 12:19:45 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:19:45 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:19:45 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:19:45 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:19:45 Europe/Lisbon] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/constantconstipation.club/html/actions/all.php:9
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(9): PDO->__construct()
+#1 /var/www/constantconstipation.club/html/actions/all.php(19): allContent()
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/constantconstipation.club/html/actions/all.php:9
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(9): PDO->__construct()
+#1 /var/www/constantconstipation.club/html/actions/all.php(19): allContent()
+#2 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:21:20 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:21:20 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:21:20 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:21:20 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:21:20 Europe/Lisbon] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/constantconstipation.club/html/actions/all.php:9
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(9): PDO->__construct()
+#1 /var/www/constantconstipation.club/html/actions/all.php(19): allContent()
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/constantconstipation.club/html/actions/all.php:9
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(9): PDO->__construct()
+#1 /var/www/constantconstipation.club/html/actions/all.php(19): allContent()
+#2 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:23:06 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:23:06 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:23:06 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:23:06 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:23:06 Europe/Lisbon] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/constantconstipation.club/html/actions/all.php:9
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(9): PDO->__construct()
+#1 /var/www/constantconstipation.club/html/actions/all.php(19): allContent()
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/constantconstipation.club/html/actions/all.php:9
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(9): PDO->__construct()
+#1 /var/www/constantconstipation.club/html/actions/all.php(19): allContent()
+#2 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:48:10 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:48:10 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:48:10 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:48:10 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:48:10 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 15
+[11-Dec-2021 12:48:10 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:15
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(18): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 15
+[11-Dec-2021 12:49:28 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:49:28 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:49:28 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:49:28 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:49:28 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 15
+[11-Dec-2021 12:49:28 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:15
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(18): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 15
+[11-Dec-2021 12:53:31 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:53:31 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:53:31 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:53:31 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:53:31 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 14
+[11-Dec-2021 12:53:31 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot decrement PDOException in /var/www/constantconstipation.club/html/actions/all.php:14
+Stack trace:
+#0 /var/www/constantconstipation.club/html/actions/all.php(17): allContent()
+#1 {main}
+  thrown in /var/www/constantconstipation.club/html/actions/all.php on line 14
+[11-Dec-2021 12:59:42 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:59:42 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:59:42 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:59:42 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 12:59:42 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 14
+[11-Dec-2021 13:02:05 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 13:02:05 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 13:02:05 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 13:02:05 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 13:02:05 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 14
+[11-Dec-2021 13:02:27 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 13:02:27 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 13:02:27 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 13:02:27 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 13:02:27 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 14
+[11-Dec-2021 13:13:12 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 13:13:12 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 13:13:12 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 13:13:12 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 13:13:12 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 14
+[11-Dec-2021 13:24:04 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 13:24:04 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 13:24:04 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 13:24:04 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 13:24:04 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 14
+[11-Dec-2021 14:08:30 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 14:08:30 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 14:08:30 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 14:08:30 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 14:08:30 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 14
+[11-Dec-2021 14:08:34 Europe/Lisbon] PHP Warning:  Undefined variable $servername in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 14:08:34 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 14:08:34 Europe/Lisbon] PHP Warning:  Undefined variable $username in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 14:08:34 Europe/Lisbon] PHP Warning:  Undefined variable $password in /var/www/constantconstipation.club/html/actions/all.php on line 9
+[11-Dec-2021 14:08:34 Europe/Lisbon] PHP Warning:  Undefined variable $dbname in /var/www/constantconstipation.club/html/actions/all.php on line 14
